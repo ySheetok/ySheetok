@@ -1,6 +1,7 @@
 <img align="right" alt="Android Jetpack" src="./images/android_jetpack.png">
 
-<img src="./images/title.svg" width="200" alt="Luiz Leal">
+<br>
+<img src="./images/title.svg" width="180" alt="Luiz Leal">
 <p align="justify">
 Hello, my name is Luiz. I'm a programming student specializing in Android development. I'm happy you visited my GitHub profile! Here you can check out the projects I've been working on as I improve my skills in mobile app development. Feel free to explore and connect!
 </p>
